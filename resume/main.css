@@ -267,7 +267,7 @@ th {
   display: inline-block;
 }
 .area--item__title .title-sub {
-  font-size: 16px;
+  font-size: 15px;
 }
 .area--item__title .title-link {
   padding-left: 5px;
@@ -290,7 +290,7 @@ th {
   margin: 0;
   padding: 0;
   line-height: 26px;
-  font-size: 16px;
+  font-size: 14px;
 }
 .area--item__content .content-text .planB {
   font-size: 0.8em;
