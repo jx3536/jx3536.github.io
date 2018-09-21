@@ -283,14 +283,23 @@ th {
   vertical-align: text-bottom;
 }
 .area--item__content {
-  padding-left: 20px;
-  margin-top: 4px;
+  padding-left: 18px;
+  margin-top: 3px;
+}
+.area--item__desc {
+  padding--top: 16px;
+}
+.area--item__desc .desc-text {
+  margin-top: 10px;
+  padding: 0;
+  line-height: 24px;
+  font-size: 15px;
 }
 .area--item__content .content-text {
-  margin: 0;
+  margin-top: 3px;
   padding: 0;
-  line-height: 26px;
-  font-size: 14px;
+  line-height: 22px;
+  font-size: 15px;
 }
 .area--item__content .content-text .planB {
   font-size: 0.8em;
@@ -339,8 +348,8 @@ th {
 }
 .header .contact--item {
   font-size: 16px;
-  height: 32px;
-  line-height: 32px
+  height: 36px;
+  line-height: 36px
   ;
 }
 .header .contact .iconfont {
@@ -355,7 +364,7 @@ th {
 .header .personal {
   float: right;
   text-align: right;
-  height: 150px;
+  height: 120px;
 }
 .header .personal--name {
   font-size: 66px;
